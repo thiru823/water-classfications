@@ -5,3 +5,13 @@ Ensuring access to safe drinking water is a critical public health priority worl
 This project aims to develop a machine learning classification model that predicts whether a water sample is safe or unsafe for human consumption based on its chemical properties.
 
 Using a dataset containing various water quality indicators such as:
+📦 Technologies Used
+Python
+
+Pandas, NumPy
+
+Scikit-learn
+
+Streamlit
+
+Seaborn/Matplotlib (for visualizations)
